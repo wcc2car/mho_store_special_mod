@@ -1,0 +1,1878 @@
+[
+  {
+    "SkuId": 40031100,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17546342028166048137,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Team Captain America Mystery Box",
+        "Title": "Team Captain America Mystery Box",
+        "ReleaseDate": "",
+        "ItemPrice": 450
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 1
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "SkuId": 40031200,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 7873925855885731531,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Team Iron Man Mystery Box",
+        "Title": "Team Iron Man Mystery Box",
+        "ReleaseDate": "",
+        "ItemPrice": 450
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 1
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "SkuId": 99001232,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 18124378460164657770,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Groot Marvel\u0027s Guardians of the Galaxy Vol. 2 Pet",
+        "Title": "Groot Marvel\u0027s Guardians of the Galaxy Vol. 2 Pet",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124662,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9371101726143877678,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Mini Sentinel (Entity/Items/Pets/Pet039MiniSentinel.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124663,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9773996415570809189,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Ultron Gold (Entity/Items/Pets/Pet008UltronGold.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124664,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 10007754986462712931,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Holographic Armor Vendor (Entity/Items/Pets/Pet011ArmorVendorSummon.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124665,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 10424188396237296488,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Orange Iron Buddy (Entity/Items/Pets/Pet018IronBuddyOrange.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124667,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 10670820987967575005,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Iron Man Civil War Statue S.T.A.S.H. (Entity/Items/Pets/Pet057TeamIronmanStash.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124668,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 11509014527419355041,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Kronan (Entity/Items/Pets/Pet023Kronan.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124669,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 11642810628209709399,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Ultron Micro-Drone (Entity/Items/Pets/Pet059UltronHead.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124670,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 12212132484028895784,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Red Iron Buddy (Entity/Items/Pets/Pet019IronBuddyRed.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124671,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 12765166421875824111,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Mini Starktech Sentinel (Entity/Items/Pets/Pet040MiniStarktechSentinel.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124672,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 12965113310353167519,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Tigerstripe Old Lace (Entity/Items/Pets/Pet042OldLaceTigerstripe.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124673,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 14137893498576113480,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Lucky (Entity/Items/Pets/Pet058Lucky.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124661,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9260070695188434855,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Ignatz (Entity/Items/Pets/Pet061Ignatz.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124674,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 14640146766668764035,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Purple Iron Buddy (Entity/Items/Pets/Pet017IronBuddyPurple.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124676,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15231074609779839940,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Holiday H.E.R.B.I.E. (Entity/Items/Pets/Pet033HerbieShinyGreen.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124677,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15292232670149480758,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "D.O.O.M.H.E.R.B.I.E. (Entity/Items/Pets/Pet005DoomHerbie.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124678,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15578982411354771487,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Snowman (Entity/Items/Pets/Pet054Snowman.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124679,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15951940137715634959,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Sanctum Sanctorum Stash (Entity/Items/Pets/Pet063SanctorumChest.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124680,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16369240834314736085,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Great Ultron (Entity/Items/Pets/Pet029UltronGreat.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124681,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16370965694436414344,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Cosmic Iron Buddy (Entity/Items/Pets/Pet027IronBuddyYellow.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124683,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16826755997145632949,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Remote Control Blackbird (Entity/Items/Pets/Pet031BlackBird.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124684,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16936369461436486516,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Future Foundation Spider-Ham (Entity/Items/Pets/Pet036SpiderHamFuture.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124685,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17029230970166252178,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Blue Iron Buddy (Entity/Items/Pets/Pet016IronBuddyBlue.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124686,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17123923700298224714,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Celebration H.E.R.B.I.E. (Entity/Items/Pets/Pet041HerbieShinyPurple.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124675,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 14646516417560908538,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Green Iron Buddy (Entity/Items/Pets/Pet015IronBuddyGreen.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124660,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9175706331156516443,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "R.O.B. (Entity/Items/Pets/Pet050ROB.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124659,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9173035022919078444,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Cosmic Snowman (Entity/Items/Pets/Pet055SnowmanSpace.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124658,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 8586704538799641102,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Honor of Asgard (Entity/Items/Pets/Pet022AsgardReward.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 99001184,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1145116925631927114,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Ice Golem Pet (Holiday Giveaway)",
+        "Title": "Ice Golem Pet",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "SkuId": 9900124634,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 452873239228781299,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Punisher H.E.R.B.I.E. (Entity/Items/Pets/Pet030HerbiePunisher.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124635,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 705522960538735665,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Very Lesser Pink Demon (Entity/Items/Pets/Pet047FatLimboDemonPink.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124636,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 769304407832662276,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Incredibly Normal Shrunken Cow (Entity/Items/Pets/Pet038SkrullCow.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124637,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 986557949716074727,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Flying Ant (Entity/Items/Pets/Pet044FlyingAnt.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124638,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1495953050276270535,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Mini Mandroid Mk 7 (Holiday 2016 Edition) (Entity/Items/Pets/Pet064MandroidToy.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124639,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1566005023430545852,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Mindless One (Entity/Items/Pets/Pet062MindlessOne.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124640,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2111181369366353066,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Heroism of Asgard (Entity/Items/Pets/Pet024AsgardTopTenReward.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124641,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2227961587978801576,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Urban Camo\u0022 Velociraptor (Entity/Items/Pets/Pet037OldLaceGrey.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124642,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2377649419425288830,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Very Lesser Purple Demon (Entity/Items/Pets/Pet046FatLimboDemon.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124643,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2488815647894081414,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "H.E.R.B.I.E. (Entity/Items/Pets/Pet004Herbie.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124644,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2624499866226462423,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Cosmic D.O.O.M.H.E.R.B.I.E. (Entity/Items/Pets/Pet006Stub.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124645,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 3279263439944290527,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "HYDRA Hover Mini-Tank (Entity/Items/Pets/Pet051HydraTank.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124646,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 4004383201505578926,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Micro-Vision (Entity/Items/Pets/Pet003Vision.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124647,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 4055554688518263117,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Cosmic Doop Companion (Entity/Items/Pets/Pet028DoopCosmic.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124648,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 4943325584537031196,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Captain America Civil War Statue S.T.A.S.H. (Entity/Items/Pets/Pet056TeamCapStash.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124649,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 5182279675458621667,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Potted Groot (Entity/Items/Pets/Pet043BabyGroot.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 999
+      }
+    ]
+  },
+  {
+    "SkuId": 9900124650,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 5243964680499630939,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "H.E.R.B.I.E. Gold (Entity/Items/Pets/Pet035HerbieShinyGold.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124651,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 5359115108733620032,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Cosmo (Entity/Items/Pets/Pet066Cosmo.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124652,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6111587508562169970,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Giant Ant (Entity/Items/Pets/Pet045GiantAnt.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124653,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6241801260412179523,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Symbiote Spider-Ham (Entity/Items/Pets/Pet025SpiderHamSymbiote.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124654,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6554938991800160710,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Party in a Box (Entity/Items/Pets/Pet020PartyInABox.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124655,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6983654676967461173,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Mr. Hammond\u0027s Cat (Entity/Items/Pets/Pet060HammondCat.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124656,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 7946781560822764271,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Holiday H.E.R.B.I.E. (Entity/Items/Pets/Pet034HerbieShinyRed.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124657,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 8426818951488214585,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Very Lesser Cyan Demon (Entity/Items/Pets/Pet048FatLimboDemonBlueGreen.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124687,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17914075014175855666,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Green Harmless Denizen (Entity/Items/Pets/Pet049MagikDemonRecolor.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 9900124666,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 10446998100463455761,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "???? (Entity/Items/Pets/PetItem.defaults)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplayStore",
+        "Order": 999
+      }
+    ]
+  },
+  {
+    "SkuId": 40025600,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 8034678450211524270,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Bamf Pet",
+        "Title": "Bamf Pet",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 5
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 5
+      }
+    ]
+  },
+  {
+    "SkuId": 40013800,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 13792161858352388170,
+        "Quantity": 10
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Entity.Items.Crafting.Ingredients.UnstableMolecules",
+        "Title": "Crafting Ingredient Unstable Molecules",
+        "ReleaseDate": "",
+        "ItemPrice": 50
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 100
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 999
+      }
+    ]
+  },
+  {
+    "SkuId": 40017000,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 11713471430462019331,
+        "Quantity": 10
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Matrix of Unbinding",
+        "Title": "Matrix of Unbinding",
+        "ReleaseDate": "",
+        "ItemPrice": 100
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 100
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 999
+      }
+    ]
+  },
+  {
+    "SkuId": 9900124682,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16529361551267140838,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pet Item",
+        "Title": "Remote Control Blackbird (Entity/Items/Pets/Pet052DangerRoomBlackbird.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 700
+      },
+      {
+        "Name": "NoDisplayStore",
+        "Order": 700
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124683,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 12153120830587020168,
+        "Quantity": 365
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Currency Item",
+        "Title": "Marvel Heroes Omega 3rd-Year Anniversary Cake Slice (Entity/Items/CurrencyItems/SeasonalLE/Seasonal/Anniversary/BirthdayCakeSlice2016.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 303
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 303
+      },
+      {
+        "Name": "Special",
+        "Order": 303
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124682,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17161613248819303350,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "DevOnlyCowKingReward",
+        "Title": "Entity/Items/Test/DevOnlyCowKingReward.prototype",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 500
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 500
+      },
+      {
+        "Name": "Special",
+        "Order": 500
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124684,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 13725239174300048800,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Daily Gift Item",
+        "Title": "Marvel Heroes Omega 1st Birthday Cake (Entity/Items/Consumables/Prototypes/DailyGift/LogInBirthdayCake.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 321
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 321
+      },
+      {
+        "Name": "Special",
+        "Order": 321
+      }
+    ]
+  },
+  {
+    "SkuId": 99991001,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 18187699580389430221,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Ultimate Pack Founders Permabuff",
+        "Title": "Ultimate Pack Founders Permabuff",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 200
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 200
+      },
+      {
+        "Name": "Special",
+        "Order": 200
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124693,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 16422221390127111776,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Daily Gift Item",
+        "Title": "One Year Anniversary Gift (Entity/Items/Consumables/Prototypes/DailyGift/OneYearAnniGiftBox8.prototype)",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Boost",
+      "Order": 510
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 510
+      },
+      {
+        "Name": "Special",
+        "Order": 510
+      }
+    ]
+  }
+]

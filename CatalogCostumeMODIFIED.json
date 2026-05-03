@@ -1,0 +1,354 @@
+[
+  {
+    "SkuId": 30040300,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 8419161067070036447,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Carnage Spider-Carnage Enhanced Costume",
+        "Title": "Carnage Spider-Carnage Enhanced Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 1450
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30040400,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 905062896367377347,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Daredevil Marvel\u0027s Daredevil Maskless Costume",
+        "Title": "Daredevil Marvel\u0027s Daredevil Maskless Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30040600,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17715539530612349730,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Elektra Marvel\u0027s Daredevil Maskless Costume",
+        "Title": "Elektra Marvel\u0027s Daredevil Maskless Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30040700,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1280205321387710678,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Luke Cage Marvel\u0027s Luke Cage Hood Up Costume",
+        "Title": "Luke Cage Marvel\u0027s Luke Cage Hood Up Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30040200,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17023444567836662903,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Rocket Raccoon Marvel\u0027s Guardians of the Galaxy Vol. 2 Enhanced Costume",
+        "Title": "Rocket Raccoon Marvel\u0027s Guardians of the Galaxy Vol. 2 Enhanced Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 1450
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30040100,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15085643036362217764,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Star-Lord Marvel\u0027s Guardians of the Galaxy Vol. 2 Costume",
+        "Title": "Star-Lord Marvel\u0027s Guardians of the Galaxy Vol. 2 Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 30039700,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 11584140186848663622,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Black Bolt Classic Costume",
+        "Title": "Black Bolt Classic Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 1
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "SkuId": 99001246,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 5334271318910506767,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Iron Man Guardians of the Galaxy White Costume",
+        "Title": "Iron Man Guardians of the Galaxy White Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 1
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 1
+      }
+    ]
+  },
+  {
+    "SkuId": 30027400,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 3475188664664332091,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Hulk Revengers Costume",
+        "Title": "Hulk Revengers Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 2
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "SkuId": 30027300,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1098226225238841472,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Moon Knight Earth X Costume",
+        "Title": "Moon Knight Earth X Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 750
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 2
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 2
+      }
+    ]
+  },
+  {
+    "SkuId": 30020000,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 14125530801208367749,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Punisher Franken-Castle Costume",
+        "Title": "Punisher Franken-Castle Costume",
+        "ReleaseDate": "",
+        "ItemPrice": 950
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Costume",
+      "Order": 2
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 2
+      }
+    ]
+  }
+]

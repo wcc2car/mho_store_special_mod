@@ -1,0 +1,56 @@
+[
+  {
+    "SkuId": 20011600,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6223810743151629740,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Black Bolt",
+        "Title": "Black Bolt",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Hero",
+      "Order": 0
+    },
+    "TypeModifiers": []
+  },
+  {
+    "SkuId": 20011800,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1644838416155284687,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Carnage",
+        "Title": "Carnage",
+        "ReleaseDate": "",
+        "ItemPrice": 900
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Hero",
+      "Order": 0
+    },
+    "TypeModifiers": []
+  }
+]

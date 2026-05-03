@@ -1,0 +1,514 @@
+[
+  {
+    "SkuId": 9909124657,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2244548825063694937,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Chest of 1,000,000 Credits",
+        "Title": "MillionCreditsChest",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 10
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 10
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124659,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6905225477731457674,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "art148",
+        "Title": "art148",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 100
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 100
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124661,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 8502724497601925575,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "DodgeMedal",
+        "Title": "DodgeMedal",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 110
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 110
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124662,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 12801104965476159957,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "SpeedMedal",
+        "Title": "SpeedMedal",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 110
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 110
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124663,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 15306170841962450410,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Telport ring",
+        "Title": "Telport ring",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 110
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 110
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124664,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 13636894296769370769,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Art299",
+        "Title": "VFX Cosmic flash Art",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124667,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17795607140687680311,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "XX1",
+        "Title": "Relic Crit Damage",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 115
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 115
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124668,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 17612053243636486988,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "XX2",
+        "Title": "Relic (all in 1)",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 115
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 115
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124669,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 4033922412258857644,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "xx3",
+        "Title": "Relic (Damage)",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 115
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 115
+      }
+    ]
+  },
+  {
+    "SkuId": 9909124677,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 1070532405818825893,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Pym Shrinking Particles",
+        "Title": "Pym Shrinking Particles",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124678,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 10535309747152887455,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Purple Glowing Eyes Visual",
+        "Title": "Purple Glowing Eyes Visual",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124679,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 623800756105058956,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Cosmic Glowing Eyes",
+        "Title": "Cosmic Glowing Eyes",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124680,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 6547675845548907150,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Blue Glowing Eyes",
+        "Title": "Blue Glowing Eyes",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124681,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 9489897131464268177,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Eyes of Limbo",
+        "Title": "Eyes of Limbo",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 700
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 700
+      }
+    ]
+  },  
+  {
+    "SkuId": 9909124682,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 3269465030714005086,
+        "Quantity": 10
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Entity/Items/Runewords/Glyphs/RunewordGlyph035.prototype",
+        "Title": "Surtur Rune",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 15
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 15
+      }
+    ]
+  }, 
+  {
+    "SkuId": 9909124683,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 5757153247411449809,
+        "Quantity": 10
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/Jackpot/Items/TeamCapBoost1Week.prototype",
+        "Title": "Torn Up Registration Act",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Service",
+      "Order": 300
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Special",
+        "Order": 300
+      }
+    ]
+  } 
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "SkuId": 99001235,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2375797941050546001,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "4th Anniversary Birthday Card",
+        "Title": "4th Anniversary Birthday Card",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Chest",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 0
+      },
+      {
+        "Name": "NoDisplayStore",
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "SkuId": 99001236,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 2375797941050546001,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "4th Anniversary Birthday Card",
+        "Title": "4th Anniversary Birthday Card",
+        "ReleaseDate": "",
+        "ItemPrice": 0
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "Chest",
+      "Order": 0
+    },
+    "TypeModifiers": [
+      {
+        "Name": "NoDisplay",
+        "Order": 0
+      },
+      {
+        "Name": "NoDisplayStore",
+        "Order": 0
+      }
+    ]
+  }
+]
